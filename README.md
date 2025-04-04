@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Management Smart Contract (Day 55)
+# 🍽️ Restaurant Management Smart Contract 
 
 This is a **Solidity Smart Contract** for managing a restaurant's **table reservations**, **menu items**, and **order tracking** on the Ethereum blockchain. It simulates a decentralized restaurant backend that can be integrated with a DApp frontend using React and Ethers.js.
 
