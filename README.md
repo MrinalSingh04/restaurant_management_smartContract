@@ -112,4 +112,4 @@ MIT
 ---
 
 ## 🙌 Built as part of #100DaysOfCode | Day 55  
-Follow my journey on [Twitter](https://twitter.com) or [LinkedIn](https://linkedin.com)!
+Follow my journey on [Twitter](https://x.com/MrinalS74850173) or [LinkedIn](https://www.linkedin.com/in/mrinal-singh-43a9661a0/)!
